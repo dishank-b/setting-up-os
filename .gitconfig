@@ -1,0 +1,11 @@
+[user]
+	name = Dishank Bansal
+	email = dishankbansal09@gmail.com
+[alias]
+    	co = checkout
+    	st = status
+    	ci = commit
+    	lp = log --oneline
+    	poh = push origin head
+   	rc = rebase --continue
+    	prom = pull --rebase origin master
