@@ -1,4 +1,4 @@
-# setting-up-os
+# Setting Up OS
 This repository contains things you need to setup on your new installed Ubuntu/Mac for coders. 
 
 **Guides**
