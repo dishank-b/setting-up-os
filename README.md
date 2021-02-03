@@ -5,6 +5,7 @@ This repository contains things you need to setup on your new installed Ubuntu/M
 
 1. https://www.stuartellis.name/articles/mac-setup/
 2. https://sourabhbajaj.com/mac-setup/
+3. https://github.com/nicolashery/mac-dev-setup
 
 
 
@@ -19,13 +20,16 @@ To make the trackpad behave correctly, ensure that these settings are enabled:
 
 1. Install Homebrew
 2. Install python3 from brew and setup it's PATH variable so to not use System's python3.
-  * brew install python3
+ 1. `brew install python3`
 3. Install Iterm2 -> https://www.iterm2.com/
-4. Install Oh-my-zsh - https://github.com/ohmyzsh/ohmyzsh
-5. brew install git
-6. Install VScode
-  * Install remote plugin
-  * Install git plugin
+4. Install iterm: `brew install --cask iterm2`
+5. Install Oh-my-zsh - https://github.com/ohmyzsh/ohmyzsh
+6. brew install git
+7. Install VScode
+ 1. Install remote plugin
+ 2. Install git plugin
+8. Install XQuartz- it is macOS alternative of X server, which is used for X port forwarding and related stuff. 
+
   
 ### Git
 1. Setup Global git-config file -> https://github.com/dishank-b/setting-up-os/blob/main/.gitconfig
